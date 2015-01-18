@@ -1,0 +1,6 @@
+D:\proeti\my first HomeWork\11- Current Date and Time\bin\Debug\11- Current Date and Time.exe.config
+D:\proeti\my first HomeWork\11- Current Date and Time\bin\Debug\11- Current Date and Time.exe
+D:\proeti\my first HomeWork\11- Current Date and Time\bin\Debug\11- Current Date and Time.pdb
+D:\proeti\my first HomeWork\11- Current Date and Time\obj\Debug\11- Current Date and Time.csprojResolveAssemblyReference.cache
+D:\proeti\my first HomeWork\11- Current Date and Time\obj\Debug\11- Current Date and Time.exe
+D:\proeti\my first HomeWork\11- Current Date and Time\obj\Debug\11- Current Date and Time.pdb

@@ -1,0 +1,5 @@
+D:\proeti\my first HomeWork\03-PrintNumbers1to1001\bin\Debug\03-PrintNumbers1to1001.exe.config
+D:\proeti\my first HomeWork\03-PrintNumbers1to1001\bin\Debug\03-PrintNumbers1to1001.exe
+D:\proeti\my first HomeWork\03-PrintNumbers1to1001\bin\Debug\03-PrintNumbers1to1001.pdb
+D:\proeti\my first HomeWork\03-PrintNumbers1to1001\obj\Debug\03-PrintNumbers1to1001.exe
+D:\proeti\my first HomeWork\03-PrintNumbers1to1001\obj\Debug\03-PrintNumbers1to1001.pdb

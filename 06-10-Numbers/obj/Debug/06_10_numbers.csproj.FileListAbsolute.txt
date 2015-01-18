@@ -1,0 +1,6 @@
+D:\proeti\my first HomeWork\06-10-Numbers\bin\Debug\06-10-Numbers.exe.config
+D:\proeti\my first HomeWork\06-10-Numbers\bin\Debug\06-10-Numbers.exe
+D:\proeti\my first HomeWork\06-10-Numbers\bin\Debug\06-10-Numbers.pdb
+D:\proeti\my first HomeWork\06-10-Numbers\obj\Debug\06_10_numbers.csprojResolveAssemblyReference.cache
+D:\proeti\my first HomeWork\06-10-Numbers\obj\Debug\06-10-Numbers.exe
+D:\proeti\my first HomeWork\06-10-Numbers\obj\Debug\06-10-Numbers.pdb

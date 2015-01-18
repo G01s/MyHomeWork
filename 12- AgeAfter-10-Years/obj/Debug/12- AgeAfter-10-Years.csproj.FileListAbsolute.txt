@@ -1,0 +1,6 @@
+D:\proeti\my first HomeWork\12- AgeAfter-10-Years\bin\Debug\12- AgeAfter-10-Years.exe.config
+D:\proeti\my first HomeWork\12- AgeAfter-10-Years\bin\Debug\12- AgeAfter-10-Years.exe
+D:\proeti\my first HomeWork\12- AgeAfter-10-Years\bin\Debug\12- AgeAfter-10-Years.pdb
+D:\proeti\my first HomeWork\12- AgeAfter-10-Years\obj\Debug\12- AgeAfter-10-Years.exe
+D:\proeti\my first HomeWork\12- AgeAfter-10-Years\obj\Debug\12- AgeAfter-10-Years.pdb
+D:\proeti\my first HomeWork\12- AgeAfter-10-Years\obj\Debug\12- AgeAfter-10-Years.csprojResolveAssemblyReference.cache

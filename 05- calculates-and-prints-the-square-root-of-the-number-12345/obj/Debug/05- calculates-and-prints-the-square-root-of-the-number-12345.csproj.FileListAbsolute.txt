@@ -1,0 +1,6 @@
+D:\proeti\my first HomeWork\05- calculates-and-prints-the-square-root-of-the-number-12345\bin\Debug\05- calculates-and-prints-the-square-root-of-the-number-12345.exe.config
+D:\proeti\my first HomeWork\05- calculates-and-prints-the-square-root-of-the-number-12345\obj\Debug\05- calculates-and-prints-the-square-root-of-the-number-12345.csprojResolveAssemblyReference.cache
+D:\proeti\my first HomeWork\05- calculates-and-prints-the-square-root-of-the-number-12345\bin\Debug\05- calculates-and-prints-the-square-root-of-the-number-12345.exe
+D:\proeti\my first HomeWork\05- calculates-and-prints-the-square-root-of-the-number-12345\bin\Debug\05- calculates-and-prints-the-square-root-of-the-number-12345.pdb
+D:\proeti\my first HomeWork\05- calculates-and-prints-the-square-root-of-the-number-12345\obj\Debug\05- calculates-and-prints-the-square-root-of-the-number-12345.exe
+D:\proeti\my first HomeWork\05- calculates-and-prints-the-square-root-of-the-number-12345\obj\Debug\05- calculates-and-prints-the-square-root-of-the-number-12345.pdb

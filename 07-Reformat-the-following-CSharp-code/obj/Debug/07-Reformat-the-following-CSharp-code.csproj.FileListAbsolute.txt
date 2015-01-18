@@ -1,0 +1,6 @@
+D:\proeti\my first HomeWork\07-Reformat-the-following-CSharp-code\bin\Debug\07-Reformat-the-following-CSharp-code.exe.config
+D:\proeti\my first HomeWork\07-Reformat-the-following-CSharp-code\obj\Debug\07-Reformat-the-following-CSharp-code.csprojResolveAssemblyReference.cache
+D:\proeti\my first HomeWork\07-Reformat-the-following-CSharp-code\bin\Debug\07-Reformat-the-following-CSharp-code.exe
+D:\proeti\my first HomeWork\07-Reformat-the-following-CSharp-code\bin\Debug\07-Reformat-the-following-CSharp-code.pdb
+D:\proeti\my first HomeWork\07-Reformat-the-following-CSharp-code\obj\Debug\07-Reformat-the-following-CSharp-code.exe
+D:\proeti\my first HomeWork\07-Reformat-the-following-CSharp-code\obj\Debug\07-Reformat-the-following-CSharp-code.pdb
