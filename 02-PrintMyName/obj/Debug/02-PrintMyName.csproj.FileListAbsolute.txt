@@ -1,5 +1,0 @@
-D:\proeti\my first HomeWork\02-PrintMyName\bin\Debug\02-PrintMyName.exe.config
-D:\proeti\my first HomeWork\02-PrintMyName\bin\Debug\02-PrintMyName.exe
-D:\proeti\my first HomeWork\02-PrintMyName\bin\Debug\02-PrintMyName.pdb
-D:\proeti\my first HomeWork\02-PrintMyName\obj\Debug\02-PrintMyName.exe
-D:\proeti\my first HomeWork\02-PrintMyName\obj\Debug\02-PrintMyName.pdb
