@@ -1,5 +1,0 @@
-D:\proeti\my first HomeWork\04-FirstAndLastName\bin\Debug\04-FirstAndLastName.exe.config
-D:\proeti\my first HomeWork\04-FirstAndLastName\bin\Debug\04-FirstAndLastName.exe
-D:\proeti\my first HomeWork\04-FirstAndLastName\bin\Debug\04-FirstAndLastName.pdb
-D:\proeti\my first HomeWork\04-FirstAndLastName\obj\Debug\04-FirstAndLastName.exe
-D:\proeti\my first HomeWork\04-FirstAndLastName\obj\Debug\04-FirstAndLastName.pdb
