@@ -1,6 +1,0 @@
-D:\proeti\my first HomeWork\03-PrintNumber-1,101and1001\bin\Debug\03-PrintNumber-1,101and1001.exe.config
-D:\proeti\my first HomeWork\03-PrintNumber-1,101and1001\bin\Debug\03-PrintNumber-1,101and1001.exe
-D:\proeti\my first HomeWork\03-PrintNumber-1,101and1001\bin\Debug\03-PrintNumber-1,101and1001.pdb
-D:\proeti\my first HomeWork\03-PrintNumber-1,101and1001\obj\Debug\03-PrintNumber-1,101and1001.csprojResolveAssemblyReference.cache
-D:\proeti\my first HomeWork\03-PrintNumber-1,101and1001\obj\Debug\03-PrintNumber-1,101and1001.exe
-D:\proeti\my first HomeWork\03-PrintNumber-1,101and1001\obj\Debug\03-PrintNumber-1,101and1001.pdb
